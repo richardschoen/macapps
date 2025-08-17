@@ -93,5 +93,6 @@ https://www.lucid.app
 https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html
 - Windows App - RDP Client    
 AppStore
-- Hand Mirror - Camera Check     
-- Vanity Mirror - Camera Check  
+- Hand Mirror - Camera Check       
+- Vanity Mirror - Camera Check   
+- Quick Camera App - View Camera on Screen   
