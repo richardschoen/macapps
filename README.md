@@ -6,7 +6,7 @@ This site is a place I can share a list of various Mac Apps I've used or others 
 https://aerolite.dev/applite 
 
 ### IBM i Related
-- RDi 9.8 - Rational Developer for i
+- RDi 9.8 - Rational Developer for i   
 https://www.ibm.com/support/pages/ibm-rational-developer-i-download   
 - TN5250j - TN5250 Emulator   
 http://tn5250j.org  
@@ -14,8 +14,9 @@ http://tn5250j.org
 https://www.ibm.com/support/pages/ibm-i-access-client-solutions
 
 ### Editors - IDE
-- VS Code - Microsoft VS Code Editor
+- VS Code - Microsoft VS Code Editor   
 https://code.visualstudio.com/download
+-Geany - Editor   
 
 ### Terminal Apps
 - Royal Apps - A terminal app and also used to connect to VNC or RDP.   
