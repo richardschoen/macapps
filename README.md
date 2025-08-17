@@ -103,3 +103,5 @@ AppStore
 - Hand Mirror - Camera Check       
 - Vanity Mirror - Camera Check   
 - Quick Camera App - View Camera on Screen   
+- Camera Controller - Apparently Only works with external cameras    
+https://github.com/Itaybre/CameraController
