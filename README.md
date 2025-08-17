@@ -59,3 +59,6 @@ https://app.diagrams.net
 https://www.lucid.app
 - Hasleo NTFS for Mac - Access NTFS
 https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html
+- VMware - Virtual Machines
+- UTM - Virtual Machines
+- Parallels - Virtual Machines   
