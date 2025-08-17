@@ -41,6 +41,12 @@ https://www.techsmith.com
 - Greenshot - Screen capture  
 https://getgreenshot.org/2017/01/10/mac-os-launch/
 
+### Note Taking
+- Joplin   
+- Obsidian   
+- Notion   
+- OneNote  
+
 ### New/Misc Not Classified Yet
 - Gimp Image Editor
 - Audacity - Audio recording
