@@ -3,6 +3,8 @@ This site is a place I can share a list of various Mac Apps I've used or others 
 
 Feel free to drop and issue or pull request with your favorites added.
 
+❗Make sure to do your own due-diligence before installing and using any of these apps. This list for reference only.
+
 ### App Installation  
 - AppLite - GUI client for homebrew app installation   
 https://aerolite.dev/applite 
@@ -22,7 +24,8 @@ AppStore
 ### Editors - IDE
 - VS Code - Microsoft VS Code Editor   
 https://code.visualstudio.com/download
--Geany - Editor   
+-Geany - Editor
+https://www.geany.org/download/releases   
 
 ### Terminal Apps
 - Royal Apps - A terminal app and also used to connect to VNC or RDP.   
