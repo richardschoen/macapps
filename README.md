@@ -65,6 +65,12 @@ https://getgreenshot.org/2017/01/10/mac-os-launch/
 - UTM - Virtual Machines   
 - Parallels - Virtual Machines     
 
+### Cursor Apps
+- Hyper Cursor     
+AppStore   
+- Cursor Pro - Purchased     
+AppStore    
+
 ### New/Misc Not Classified Yet
 - Gimp Image Editor
 - Audacity - Audio recording
