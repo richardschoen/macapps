@@ -21,6 +21,13 @@ https://www.ibm.com/support/pages/ibm-i-access-client-solutions
 - Mochasoft TN5250 or TN5250 Lite    
 AppStore  
 
+### Database Tools   
+- DBeaver
+- SQLiteStudio
+- DB Brwoser for SQLite
+- Postgres - App wrapper for Postgres 
+
+
 ### Editors - IDE
 - VS Code - Microsoft VS Code Editor   
 https://code.visualstudio.com/download   
