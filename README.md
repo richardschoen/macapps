@@ -81,6 +81,8 @@ AppStore
 - LibreOffice
 - SwitchResx - Switch screen resolutions and maintain screen clarity  
 https://www.madrau.com
+- BetterDisplay   
+https://github.com/waydabber/BetterDisplay/releases
 - Flux 
 - iBar - Menu and Taskbar Organizer   
 - Draw.io - Diagramming and Flowchart Editor
@@ -92,4 +94,4 @@ https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html
 - Windows App - RDP Client    
 AppStore
 - Hand Mirror - Camera Check     
-- Vanity Mirror    
+- Vanity Mirror - Camera Check  
