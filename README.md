@@ -1,5 +1,5 @@
 # My List of Useful Mac Apps
-This site will be a place I can share a list of various Mac Apps I've used or others might like to use.
+This site is a place I can share a list of various Mac Apps I've used or others might like to use.
 
 ### App Installation  
 - AppLite - GUI client for homebrew app installation   
@@ -45,4 +45,5 @@ https://getgreenshot.org/2017/01/10/mac-os-launch/
 - Filezilla
 - Cyberduck
 - Mountain Duck
-- 
+- Microsoft Office (Word, Excel, Powerpoint)     
+- LibreOffice    
