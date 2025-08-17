@@ -10,11 +10,9 @@ https://aerolite.dev/applite
 - TN5250j   
 - IBM ACS   
 
-
 ### Editors - IDE
 - VS Code - Microsoft VS Code Editor
 https://code.visualstudio.com/download
-
 
 ### Terminal Apps
 - Royal Apps - A terminal app and also used to connect to VNC or RDP.   
@@ -27,15 +25,15 @@ https://devolutions.net
 - Jetbrains - IDE tools for just about any language.   
 https://www.jetbrains.com
 
-### Misc
+### File Explorers
 - Forklift file explorer for MacOS, S3, SFTP, etc.   
 https://binarynights.com
 
 ### Screen Capture/Recording
 - Techsmith Snagit - Screen capture and recording    
-https://ww.techsmith.com  
+https://www.techsmith.com  
 - Techsmith Camtasia - Video Editing     
-https://ww.techsmith.com
+https://www.techsmith.com
 - Greenshot - Screen capture  
 https://getgreenshot.org/2017/01/10/mac-os-launch/
 
@@ -46,4 +44,14 @@ https://getgreenshot.org/2017/01/10/mac-os-launch/
 - Cyberduck
 - Mountain Duck
 - Microsoft Office (Word, Excel, Powerpoint)     
-- LibreOffice    
+- LibreOffice
+- SwitchResx - Switch screen resolutions and maintain screen clarity  
+https://www.madrau.com
+- Flux 
+- iBar - Menu and Taskbar Organizer   
+- Draw.io - Diagramming and Flowchart Editor
+https://app.diagrams.net
+- Lucid - Flowchart and diagramming service
+https://www.lucid.app
+- Hasleo NTFS for Mac - Access NTFS
+https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html
