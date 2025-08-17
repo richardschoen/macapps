@@ -58,7 +58,12 @@ https://getgreenshot.org/2017/01/10/mac-os-launch/
 - Joplin   
 - Obsidian   
 - Notion   
-- OneNote  
+- OneNote
+
+### Virtual Machines   
+- VMware - Virtual Machines   
+- UTM - Virtual Machines   
+- Parallels - Virtual Machines     
 
 ### New/Misc Not Classified Yet
 - Gimp Image Editor
@@ -78,9 +83,5 @@ https://app.diagrams.net
 https://www.lucid.app
 - Hasleo NTFS for Mac - Access NTFS
 https://www.easyuefi.com/ntfs-for-mac/ntfs-for-mac.html
-- VMware - Virtual Machines
-- UTM - Virtual Machines
-- Parallels - Virtual Machines
-- Eclipse
 - Windows App - RDP Client    
 AppStore   
