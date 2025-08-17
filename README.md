@@ -25,9 +25,9 @@ AppStore
 
 ### Editors - IDE
 - VS Code - Microsoft VS Code Editor   
-https://code.visualstudio.com/download
--Geany - Editor
-https://www.geany.org/download/releases   
+https://code.visualstudio.com/download   
+-Geany - Editor    
+https://www.geany.org/download/releases     
 
 ### Terminal Apps
 - Royal Apps - A terminal app and also used to connect to VNC or RDP.   
