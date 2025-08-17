@@ -6,6 +6,8 @@ Feel free to drop and issue or pull request with your favorites added.
 ❗Make sure to do your own due-diligence before installing and using any of these apps. This list for reference only.
 
 ### App Installation  
+- Homebrew Catalog Site
+https://brew.sh   
 - AppLite - GUI client for homebrew app installation   
 https://aerolite.dev/applite 
 
