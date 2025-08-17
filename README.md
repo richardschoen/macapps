@@ -21,13 +21,15 @@ https://www.ibm.com/support/pages/ibm-i-access-client-solutions
 - Mochasoft TN5250 or TN5250 Lite    
 AppStore  
 
-
-
 ### Editors - IDE
 - VS Code - Microsoft VS Code Editor   
 https://code.visualstudio.com/download   
 -Geany - Editor    
-https://www.geany.org/download/releases     
+https://www.geany.org/download/releases
+- Netbeans      
+https://netbeans.apache.org    
+- Eclipse    
+https://www.eclipse.org/topics/ide/
 
 ### Terminal Apps
 - Royal Apps - A terminal app and also used to connect to VNC or RDP.   
