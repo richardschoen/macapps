@@ -108,4 +108,13 @@ https://github.com/Itaybre/CameraController
 -Mole - Clean up disk
 https://www.mactools.pro/Mole
 -Better Display
+-iTerm2
+-Snagit
+-Greenshot
+-Filezilla
+-Commander One - File Explorer
+-SSHFS
+-Cyberduck/MountainDuck
+-OpenConnect - VPN
+
 
