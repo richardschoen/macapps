@@ -105,3 +105,7 @@ AppStore
 - Quick Camera App - View Camera on Screen   
 - Camera Controller - Apparently Only works with external cameras    
 https://github.com/Itaybre/CameraController
+-Mole - Clean up disk
+https://www.mactools.pro/Mole
+-Better Display
+
